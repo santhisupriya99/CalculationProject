@@ -103,10 +103,10 @@ public	JPanel centerPanel = new JPanel(new GridBagLayout());					//center Panel 
 	
 public MyCalculator()
 {
-	super("Calculator Project");											//Adds the Title on the Toolbar
+	super("Enchaced Calculator");											//Adds the Title on the Toolbar
 	
 	designClass();															//Layout for the Button
-	setSize(260,275);														//Sets size of Calculator GUI
+	setSize(260,290);														//Sets size of Calculator GUI
 	setResizable(false);													//Sets Resizable to false
 	setVisible(true);														//Makes the GUI visible 
 	
